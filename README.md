@@ -1,4 +1,4 @@
-# Protocol for the usage of the organizational Vidarium account on GitHub
+# Protocol: usage of the organizational Vidarium account on GitHub
 
 This organizational account belongs to Vidarium as a Research Center on nutrition, health and wellness. The members of the organization and its teams include researchers working for the center. 
 
