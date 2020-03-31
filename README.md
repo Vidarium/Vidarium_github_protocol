@@ -2,7 +2,7 @@
 
 This organizational account belongs to Vidarium as a Research Center on nutrition, health and wellness. The members of the organization and its teams include researchers working for the center. 
 
-The repositories available correspond to research projects done by the center. One repository  per project (either public or private depending on the privacy of the data and stage of the project). The name for the repository is recommended to be short and using key words that describe the project. Example: Vidarium_github_protocol
+The repositories available correspond to each of the research projects carried out by the center. One repository per project (either public or private depending on the privacy of the data and stage of the project). The name for the repository is recommended to be short and utilize key words that describe the project. Example: Vidarium_github_protocol
 
 Inside each repository one should find: 
 1.	*README.md* file which should include
