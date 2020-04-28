@@ -20,5 +20,3 @@ Example: R software 3.6.1
 3.	*LICENSE* file only if considered required for the project. GitHub offers various types of licenses with different legal implications.  The type of license is selected at the moment of the repository creation; however, it is set by default to none. If used, the type must be selected by consulting with the legal adviser of the research center. 
 
 Finally, in settings the creator of the repository has to specify which members of the organization (other than the owners of the organization) can have direct access to manage the repository. It is recommended that only the researchers participating in the project get access to the repository. 
-
-© Vidarium, 2020
